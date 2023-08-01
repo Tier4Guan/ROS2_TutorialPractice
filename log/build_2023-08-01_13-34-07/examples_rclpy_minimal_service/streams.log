@@ -1,0 +1,48 @@
+[4.177s] Invoking command in '/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/build
+[6.120s] running develop
+[6.120s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[6.121s]   warnings.warn(
+[6.129s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[6.129s]   warnings.warn(
+[6.673s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[6.673s]   warnings.warn(
+[6.678s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[6.678s]   warnings.warn(
+[7.738s] Removing /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages/examples-rclpy-minimal-service.egg-link (link to .)
+[7.894s] Invoked command in '/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service' returned '0': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/build
+[7.896s] Invoking command in '/home/muhuaguan/ros2_ws/src/examples/rclpy/services/minimal_service': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_service build --build-base /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/build install --record /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/install.log --single-version-externally-managed
+[9.167s] running egg_info
+[9.170s] writing ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/PKG-INFO
+[9.171s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/dependency_links.txt
+[9.171s] writing entry points to ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/entry_points.txt
+[9.172s] writing requirements to ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/requires.txt
+[9.173s] writing top-level names to ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/top_level.txt
+[9.180s] reading manifest file '../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[9.183s] writing manifest file '../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[9.184s] running build
+[9.184s] running build_py
+[9.185s] creating /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/build
+[9.186s] creating /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/build/lib
+[9.186s] creating /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/build/lib/examples_rclpy_minimal_service
+[9.187s] copying examples_rclpy_minimal_service/__init__.py -> /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/build/lib/examples_rclpy_minimal_service
+[9.187s] copying examples_rclpy_minimal_service/service_member_function.py -> /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/build/lib/examples_rclpy_minimal_service
+[9.188s] copying examples_rclpy_minimal_service/service.py -> /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/build/lib/examples_rclpy_minimal_service
+[9.189s] running install
+[9.189s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[9.190s]   warnings.warn(
+[9.190s] running install_lib
+[9.192s] creating /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages/examples_rclpy_minimal_service
+[9.193s] copying /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/build/lib/examples_rclpy_minimal_service/__init__.py -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages/examples_rclpy_minimal_service
+[9.193s] copying /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/build/lib/examples_rclpy_minimal_service/service_member_function.py -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages/examples_rclpy_minimal_service
+[9.194s] copying /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/build/lib/examples_rclpy_minimal_service/service.py -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages/examples_rclpy_minimal_service
+[9.195s] byte-compiling /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages/examples_rclpy_minimal_service/__init__.py to __init__.cpython-310.pyc
+[9.196s] byte-compiling /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages/examples_rclpy_minimal_service/service_member_function.py to service_member_function.cpython-310.pyc
+[9.198s] byte-compiling /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages/examples_rclpy_minimal_service/service.py to service.cpython-310.pyc
+[9.200s] running install_data
+[9.202s] running install_egg_info
+[9.208s] Copying ../../../../../build/examples_rclpy_minimal_service/examples_rclpy_minimal_service.egg-info to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages/examples_rclpy_minimal_service-0.15.1-py3.10.egg-info
+[9.213s] running install_scripts
+[9.292s] Installing service script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/lib/examples_rclpy_minimal_service
+[9.293s] Installing service_member_function script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/lib/examples_rclpy_minimal_service
+[9.294s] writing list of installed files to '/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/install.log'
+[9.380s] Invoked command in '/home/muhuaguan/ros2_ws/src/examples/rclpy/services/minimal_service' returned '0': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_service build --build-base /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/build install --record /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/install.log --single-version-externally-managed

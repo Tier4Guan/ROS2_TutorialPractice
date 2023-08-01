@@ -1,0 +1,60 @@
+[3.134s] Invoking command in '/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/build
+[4.550s] running develop
+[4.552s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[4.552s]   warnings.warn(
+[4.575s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[4.589s]   warnings.warn(
+[5.063s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[5.064s]   warnings.warn(
+[5.068s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[5.068s]   warnings.warn(
+[6.080s] Removing /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples-rclpy-minimal-action-server.egg-link (link to .)
+[6.202s] Invoked command in '/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server' returned '0': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/build
+[6.206s] Invoking command in '/home/muhuaguan/ros2_ws/src/examples/rclpy/actions/minimal_action_server': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_server build --build-base /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/build install --record /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/install.log --single-version-externally-managed
+[8.169s] running egg_info
+[8.170s] writing ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/PKG-INFO
+[8.172s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/dependency_links.txt
+[8.173s] writing entry points to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/entry_points.txt
+[8.174s] writing requirements to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/requires.txt
+[8.175s] writing top-level names to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/top_level.txt
+[8.206s] reading manifest file '../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[8.206s] writing manifest file '../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[8.212s] running build
+[8.213s] running build_py
+[8.213s] creating /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/build
+[8.214s] creating /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib
+[8.216s] creating /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[8.216s] copying examples_rclpy_minimal_action_server/server_queue_goals.py -> /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[8.221s] copying examples_rclpy_minimal_action_server/server_not_composable.py -> /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[8.222s] copying examples_rclpy_minimal_action_server/__init__.py -> /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[8.222s] copying examples_rclpy_minimal_action_server/server_defer.py -> /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[8.223s] copying examples_rclpy_minimal_action_server/server.py -> /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[8.224s] copying examples_rclpy_minimal_action_server/server_single_goal.py -> /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server
+[8.224s] running install
+[8.225s] running install_lib
+[8.225s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[8.236s]   warnings.warn(
+[8.237s] creating /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[8.238s] copying /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_queue_goals.py -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[8.239s] copying /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_not_composable.py -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[8.240s] copying /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/__init__.py -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[8.242s] copying /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_defer.py -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[8.242s] copying /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server.py -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[8.258s] copying /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/build/lib/examples_rclpy_minimal_action_server/server_single_goal.py -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server
+[8.260s] byte-compiling /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/server_queue_goals.py to server_queue_goals.cpython-310.pyc
+[8.261s] byte-compiling /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/server_not_composable.py to server_not_composable.cpython-310.pyc
+[8.262s] byte-compiling /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/__init__.py to __init__.cpython-310.pyc
+[8.263s] byte-compiling /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/server_defer.py to server_defer.cpython-310.pyc
+[8.263s] byte-compiling /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/server.py to server.cpython-310.pyc
+[8.264s] byte-compiling /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server/server_single_goal.py to server_single_goal.cpython-310.pyc
+[8.266s] running install_data
+[8.267s] running install_egg_info
+[8.268s] Copying ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server-0.15.1-py3.10.egg-info
+[8.270s] running install_scripts
+[8.359s] Installing server script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[8.360s] Installing server_defer script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[8.361s] Installing server_not_composable script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[8.361s] Installing server_queue_goals script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[8.362s] Installing server_single_goal script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[8.364s] writing list of installed files to '/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/install.log'
+[8.471s] Invoked command in '/home/muhuaguan/ros2_ws/src/examples/rclpy/actions/minimal_action_server' returned '0': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_server build --build-base /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/build install --record /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/install.log --single-version-externally-managed

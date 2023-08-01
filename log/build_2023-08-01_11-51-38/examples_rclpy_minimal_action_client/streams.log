@@ -1,0 +1,35 @@
+[25.470s] Invoking command in '/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_client': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_client/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_client/build --no-deps install_data
+[30.792s] running develop
+[30.794s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[30.794s]   warnings.warn(
+[30.850s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[30.850s]   warnings.warn(
+[32.566s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[32.567s]   warnings.warn(
+[32.590s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[32.598s]   warnings.warn(
+[34.622s] running egg_info
+[34.624s] creating examples_rclpy_minimal_action_client.egg-info
+[34.626s] writing examples_rclpy_minimal_action_client.egg-info/PKG-INFO
+[34.629s] writing dependency_links to examples_rclpy_minimal_action_client.egg-info/dependency_links.txt
+[34.632s] writing entry points to examples_rclpy_minimal_action_client.egg-info/entry_points.txt
+[34.634s] writing requirements to examples_rclpy_minimal_action_client.egg-info/requires.txt
+[34.635s] writing top-level names to examples_rclpy_minimal_action_client.egg-info/top_level.txt
+[34.638s] writing manifest file 'examples_rclpy_minimal_action_client.egg-info/SOURCES.txt'
+[34.649s] reading manifest file 'examples_rclpy_minimal_action_client.egg-info/SOURCES.txt'
+[34.654s] writing manifest file 'examples_rclpy_minimal_action_client.egg-info/SOURCES.txt'
+[34.663s] running build_ext
+[34.665s] Creating /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages/examples-rclpy-minimal-action-client.egg-link (link to .)
+[34.672s] Installing client script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[34.674s] Installing client_asyncio script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[34.676s] Installing client_cancel script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[34.678s] Installing client_not_composable script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[34.681s] 
+[34.681s] Installed /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_client
+[34.683s] running install_data
+[34.684s] creating /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_client/share/ament_index
+[34.685s] creating /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_client/share/ament_index/resource_index
+[34.687s] creating /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_client/share/ament_index/resource_index/packages
+[34.688s] copying resource/examples_rclpy_minimal_action_client -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_client/share/ament_index/resource_index/packages
+[34.690s] copying package.xml -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_client/share/examples_rclpy_minimal_action_client
+[36.065s] Invoked command in '/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_client' returned '0': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_client/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_client/build --no-deps install_data

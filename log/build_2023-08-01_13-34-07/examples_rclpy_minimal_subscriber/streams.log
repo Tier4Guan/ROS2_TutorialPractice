@@ -1,0 +1,52 @@
+[4.352s] Invoking command in '/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber/build
+[6.378s] running develop
+[6.379s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[6.380s]   warnings.warn(
+[6.388s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[6.388s]   warnings.warn(
+[6.946s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[6.949s]   warnings.warn(
+[6.950s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[6.951s]   warnings.warn(
+[8.008s] Removing /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples-rclpy-minimal-subscriber.egg-link (link to .)
+[8.118s] Invoked command in '/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber' returned '0': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber/build
+[8.120s] Invoking command in '/home/muhuaguan/ros2_ws/src/examples/rclpy/topics/minimal_subscriber': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_subscriber build --build-base /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber/build install --record /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber/install.log --single-version-externally-managed
+[9.472s] running egg_info
+[9.475s] writing ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/PKG-INFO
+[9.476s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/dependency_links.txt
+[9.477s] writing entry points to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/entry_points.txt
+[9.478s] writing requirements to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/requires.txt
+[9.479s] writing top-level names to ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/top_level.txt
+[9.486s] reading manifest file '../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[9.489s] writing manifest file '../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info/SOURCES.txt'
+[9.490s] running build
+[9.490s] running build_py
+[9.491s] creating /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber/build
+[9.491s] creating /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber/build/lib
+[9.492s] creating /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber/build/lib/examples_rclpy_minimal_subscriber
+[9.492s] copying examples_rclpy_minimal_subscriber/__init__.py -> /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber/build/lib/examples_rclpy_minimal_subscriber
+[9.493s] copying examples_rclpy_minimal_subscriber/subscriber_lambda.py -> /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber/build/lib/examples_rclpy_minimal_subscriber
+[9.493s] copying examples_rclpy_minimal_subscriber/subscriber_member_function.py -> /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber/build/lib/examples_rclpy_minimal_subscriber
+[9.494s] copying examples_rclpy_minimal_subscriber/subscriber_old_school.py -> /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber/build/lib/examples_rclpy_minimal_subscriber
+[9.494s] running install
+[9.494s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[9.495s]   warnings.warn(
+[9.495s] running install_lib
+[9.499s] creating /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber
+[9.499s] copying /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber/build/lib/examples_rclpy_minimal_subscriber/__init__.py -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber
+[9.500s] copying /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber/build/lib/examples_rclpy_minimal_subscriber/subscriber_lambda.py -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber
+[9.500s] copying /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber/build/lib/examples_rclpy_minimal_subscriber/subscriber_member_function.py -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber
+[9.501s] copying /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber/build/lib/examples_rclpy_minimal_subscriber/subscriber_old_school.py -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber
+[9.503s] byte-compiling /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber/__init__.py to __init__.cpython-310.pyc
+[9.504s] byte-compiling /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber/subscriber_lambda.py to subscriber_lambda.cpython-310.pyc
+[9.505s] byte-compiling /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber/subscriber_member_function.py to subscriber_member_function.cpython-310.pyc
+[9.507s] byte-compiling /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber/subscriber_old_school.py to subscriber_old_school.cpython-310.pyc
+[9.508s] running install_data
+[9.510s] running install_egg_info
+[9.516s] Copying ../../../../../build/examples_rclpy_minimal_subscriber/examples_rclpy_minimal_subscriber.egg-info to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages/examples_rclpy_minimal_subscriber-0.15.1-py3.10.egg-info
+[9.521s] running install_scripts
+[9.598s] Installing subscriber_lambda script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[9.599s] Installing subscriber_member_function script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[9.599s] Installing subscriber_old_school script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/examples_rclpy_minimal_subscriber
+[9.601s] writing list of installed files to '/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber/install.log'
+[9.682s] Invoked command in '/home/muhuaguan/ros2_ws/src/examples/rclpy/topics/minimal_subscriber' returned '0': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_subscriber build --build-base /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber/build install --record /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_subscriber/install.log --single-version-externally-managed

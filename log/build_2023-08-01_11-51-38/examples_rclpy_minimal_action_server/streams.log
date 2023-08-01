@@ -1,0 +1,36 @@
+[25.346s] Invoking command in '/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/build --no-deps install_data
+[29.688s] running develop
+[29.696s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[29.696s]   warnings.warn(
+[29.721s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[29.721s]   warnings.warn(
+[30.881s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[30.881s]   warnings.warn(
+[30.888s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[30.889s]   warnings.warn(
+[32.705s] running egg_info
+[32.706s] creating examples_rclpy_minimal_action_server.egg-info
+[32.707s] writing examples_rclpy_minimal_action_server.egg-info/PKG-INFO
+[32.710s] writing dependency_links to examples_rclpy_minimal_action_server.egg-info/dependency_links.txt
+[32.712s] writing entry points to examples_rclpy_minimal_action_server.egg-info/entry_points.txt
+[32.714s] writing requirements to examples_rclpy_minimal_action_server.egg-info/requires.txt
+[32.715s] writing top-level names to examples_rclpy_minimal_action_server.egg-info/top_level.txt
+[32.718s] writing manifest file 'examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[32.731s] reading manifest file 'examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[32.736s] writing manifest file 'examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[32.744s] running build_ext
+[32.746s] Creating /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples-rclpy-minimal-action-server.egg-link (link to .)
+[32.753s] Installing server script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[32.756s] Installing server_defer script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[32.758s] Installing server_not_composable script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[32.761s] Installing server_queue_goals script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[32.762s] Installing server_single_goal script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[32.766s] 
+[32.767s] Installed /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server
+[32.769s] running install_data
+[32.769s] creating /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/share/ament_index
+[32.770s] creating /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/share/ament_index/resource_index
+[32.771s] creating /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/share/ament_index/resource_index/packages
+[32.771s] copying resource/examples_rclpy_minimal_action_server -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/share/ament_index/resource_index/packages
+[32.772s] copying package.xml -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/share/examples_rclpy_minimal_action_server
+[35.659s] Invoked command in '/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server' returned '0': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_action_server/build --no-deps install_data

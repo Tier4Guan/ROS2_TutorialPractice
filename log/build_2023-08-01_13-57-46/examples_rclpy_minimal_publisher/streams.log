@@ -1,0 +1,36 @@
+[3.281s] Invoking command in '/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_publisher': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_publisher/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_publisher/build
+[4.398s] running develop
+[4.400s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[4.403s]   warnings.warn(
+[4.408s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[4.409s]   warnings.warn(
+[4.409s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[4.409s]   warnings.warn(
+[4.418s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[4.422s]   warnings.warn(
+[4.553s] Invoked command in '/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_publisher' returned '0': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_publisher/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_publisher/build
+[4.563s] Invoking command in '/home/muhuaguan/ros2_ws/src/examples/rclpy/topics/minimal_publisher': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_publisher/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_publisher build --build-base /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_publisher/build install --record /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_publisher/install.log --single-version-externally-managed
+[6.338s] running egg_info
+[6.344s] writing ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/PKG-INFO
+[6.349s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/dependency_links.txt
+[6.350s] writing entry points to ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/entry_points.txt
+[6.350s] writing requirements to ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/requires.txt
+[6.351s] writing top-level names to ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/top_level.txt
+[6.357s] reading manifest file '../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/SOURCES.txt'
+[6.364s] writing manifest file '../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/SOURCES.txt'
+[6.366s] running build
+[6.366s] running build_py
+[6.368s] running install
+[6.368s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[6.369s]   warnings.warn(
+[6.370s] running install_lib
+[6.376s] running install_data
+[6.380s] running install_egg_info
+[6.390s] removing '/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages/examples_rclpy_minimal_publisher-0.15.1-py3.10.egg-info' (and everything under it)
+[6.391s] Copying ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages/examples_rclpy_minimal_publisher-0.15.1-py3.10.egg-info
+[6.398s] running install_scripts
+[6.523s] Installing publisher_local_function script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[6.524s] Installing publisher_member_function script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[6.526s] Installing publisher_old_school script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[6.528s] writing list of installed files to '/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_publisher/install.log'
+[6.741s] Invoked command in '/home/muhuaguan/ros2_ws/src/examples/rclpy/topics/minimal_publisher' returned '0': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_publisher/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_publisher build --build-base /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_publisher/build install --record /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_publisher/install.log --single-version-externally-managed

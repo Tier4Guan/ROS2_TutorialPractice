@@ -1,0 +1,31 @@
+[25.359s] Invoking command in '/home/muhuaguan/ros2_ws/build/launch_testing_examples': PYTHONPATH=/home/muhuaguan/ros2_ws/build/launch_testing_examples/prefix_override:/home/muhuaguan/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/muhuaguan/ros2_ws/build/launch_testing_examples/build --no-deps install_data
+[28.408s] running develop
+[28.411s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[28.412s]   warnings.warn(
+[28.425s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[28.425s]   warnings.warn(
+[29.186s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[29.187s]   warnings.warn(
+[29.191s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[29.196s]   warnings.warn(
+[30.589s] running egg_info
+[30.590s] creating launch_testing_examples.egg-info
+[30.590s] writing launch_testing_examples.egg-info/PKG-INFO
+[30.592s] writing dependency_links to launch_testing_examples.egg-info/dependency_links.txt
+[30.593s] writing entry points to launch_testing_examples.egg-info/entry_points.txt
+[30.594s] writing requirements to launch_testing_examples.egg-info/requires.txt
+[30.595s] writing top-level names to launch_testing_examples.egg-info/top_level.txt
+[30.596s] writing manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[30.607s] reading manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[30.610s] writing manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[30.618s] running build_ext
+[30.620s] Creating /home/muhuaguan/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch-testing-examples.egg-link (link to .)
+[30.633s] 
+[30.634s] Installed /home/muhuaguan/ros2_ws/build/launch_testing_examples
+[30.634s] running install_data
+[30.635s] creating /home/muhuaguan/ros2_ws/install/launch_testing_examples/share/ament_index
+[30.635s] creating /home/muhuaguan/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index
+[30.636s] creating /home/muhuaguan/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index/packages
+[30.636s] copying resource/launch_testing_examples -> /home/muhuaguan/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index/packages
+[30.637s] copying package.xml -> /home/muhuaguan/ros2_ws/install/launch_testing_examples/share/launch_testing_examples
+[30.759s] Invoked command in '/home/muhuaguan/ros2_ws/build/launch_testing_examples' returned '0': PYTHONPATH=/home/muhuaguan/ros2_ws/build/launch_testing_examples/prefix_override:/home/muhuaguan/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/muhuaguan/ros2_ws/build/launch_testing_examples/build --no-deps install_data

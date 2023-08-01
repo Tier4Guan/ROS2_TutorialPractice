@@ -1,0 +1,56 @@
+[3.113s] Invoking command in '/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/build
+[4.317s] running develop
+[4.319s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[4.327s]   warnings.warn(
+[4.346s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[4.346s]   warnings.warn(
+[4.911s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[4.912s]   warnings.warn(
+[4.918s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[4.919s]   warnings.warn(
+[5.853s] Removing /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples-rclpy-minimal-client.egg-link (link to .)
+[5.939s] Invoked command in '/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client' returned '0': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/build
+[5.951s] Invoking command in '/home/muhuaguan/ros2_ws/src/examples/rclpy/services/minimal_client': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_client build --build-base /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/build install --record /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/install.log --single-version-externally-managed
+[7.841s] running egg_info
+[7.846s] writing ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/PKG-INFO
+[7.847s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/dependency_links.txt
+[7.848s] writing entry points to ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/entry_points.txt
+[7.850s] writing requirements to ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/requires.txt
+[7.850s] writing top-level names to ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/top_level.txt
+[7.861s] reading manifest file '../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/SOURCES.txt'
+[7.867s] writing manifest file '../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/SOURCES.txt'
+[7.867s] running build
+[7.868s] running build_py
+[7.868s] creating /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/build
+[7.869s] creating /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/build/lib
+[7.869s] creating /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/build/lib/examples_rclpy_minimal_client
+[7.870s] copying examples_rclpy_minimal_client/client_async_member_function.py -> /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/build/lib/examples_rclpy_minimal_client
+[7.872s] copying examples_rclpy_minimal_client/client_async.py -> /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/build/lib/examples_rclpy_minimal_client
+[7.872s] copying examples_rclpy_minimal_client/__init__.py -> /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/build/lib/examples_rclpy_minimal_client
+[7.874s] copying examples_rclpy_minimal_client/client_async_callback.py -> /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/build/lib/examples_rclpy_minimal_client
+[7.875s] copying examples_rclpy_minimal_client/client.py -> /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/build/lib/examples_rclpy_minimal_client
+[7.875s] running install
+[7.876s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[7.876s]   warnings.warn(
+[7.877s] running install_lib
+[7.882s] creating /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client
+[7.883s] copying /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/build/lib/examples_rclpy_minimal_client/client_async_member_function.py -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client
+[7.884s] copying /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/build/lib/examples_rclpy_minimal_client/client_async.py -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client
+[7.886s] copying /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/build/lib/examples_rclpy_minimal_client/__init__.py -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client
+[7.887s] copying /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/build/lib/examples_rclpy_minimal_client/client_async_callback.py -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client
+[7.887s] copying /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/build/lib/examples_rclpy_minimal_client/client.py -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client
+[7.889s] byte-compiling /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client/client_async_member_function.py to client_async_member_function.cpython-310.pyc
+[7.893s] byte-compiling /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client/client_async.py to client_async.cpython-310.pyc
+[7.896s] byte-compiling /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client/__init__.py to __init__.cpython-310.pyc
+[7.897s] byte-compiling /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client/client_async_callback.py to client_async_callback.cpython-310.pyc
+[7.899s] byte-compiling /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client/client.py to client.cpython-310.pyc
+[7.903s] running install_data
+[7.905s] running install_egg_info
+[7.915s] Copying ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client-0.15.1-py3.10.egg-info
+[7.921s] running install_scripts
+[8.044s] Installing client script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_client/lib/examples_rclpy_minimal_client
+[8.045s] Installing client_async script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_client/lib/examples_rclpy_minimal_client
+[8.046s] Installing client_async_callback script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_client/lib/examples_rclpy_minimal_client
+[8.047s] Installing client_async_member_function script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_client/lib/examples_rclpy_minimal_client
+[8.050s] writing list of installed files to '/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/install.log'
+[8.181s] Invoked command in '/home/muhuaguan/ros2_ws/src/examples/rclpy/services/minimal_client' returned '0': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_client build --build-base /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/build install --record /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_client/install.log --single-version-externally-managed

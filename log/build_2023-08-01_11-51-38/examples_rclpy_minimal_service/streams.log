@@ -1,0 +1,33 @@
+[24.223s] Invoking command in '/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/build --no-deps install_data
+[27.648s] running develop
+[27.649s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[27.650s]   warnings.warn(
+[27.662s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[27.663s]   warnings.warn(
+[28.276s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[28.277s]   warnings.warn(
+[28.282s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[28.282s]   warnings.warn(
+[29.795s] running egg_info
+[29.796s] creating examples_rclpy_minimal_service.egg-info
+[29.798s] writing examples_rclpy_minimal_service.egg-info/PKG-INFO
+[29.800s] writing dependency_links to examples_rclpy_minimal_service.egg-info/dependency_links.txt
+[29.802s] writing entry points to examples_rclpy_minimal_service.egg-info/entry_points.txt
+[29.804s] writing requirements to examples_rclpy_minimal_service.egg-info/requires.txt
+[29.805s] writing top-level names to examples_rclpy_minimal_service.egg-info/top_level.txt
+[29.808s] writing manifest file 'examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[29.820s] reading manifest file 'examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[29.827s] writing manifest file 'examples_rclpy_minimal_service.egg-info/SOURCES.txt'
+[29.837s] running build_ext
+[29.838s] Creating /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages/examples-rclpy-minimal-service.egg-link (link to .)
+[29.846s] Installing service script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/lib/examples_rclpy_minimal_service
+[29.849s] Installing service_member_function script to /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/lib/examples_rclpy_minimal_service
+[29.852s] 
+[29.852s] Installed /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service
+[29.853s] running install_data
+[29.853s] creating /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/share/ament_index
+[29.854s] creating /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/share/ament_index/resource_index
+[29.855s] creating /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/share/ament_index/resource_index/packages
+[29.855s] copying resource/examples_rclpy_minimal_service -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/share/ament_index/resource_index/packages
+[29.856s] copying package.xml -> /home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/share/examples_rclpy_minimal_service
+[30.044s] Invoked command in '/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service' returned '0': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_minimal_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/muhuaguan/ros2_ws/build/examples_rclpy_minimal_service/build --no-deps install_data

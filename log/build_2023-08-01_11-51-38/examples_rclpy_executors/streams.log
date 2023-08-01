@@ -1,0 +1,37 @@
+[23.492s] Invoking command in '/home/muhuaguan/ros2_ws/build/examples_rclpy_executors': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_executors/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/muhuaguan/ros2_ws/build/examples_rclpy_executors/build --no-deps install_data
+[31.478s] running develop
+[31.505s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[31.505s]   warnings.warn(
+[31.542s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[31.543s]   warnings.warn(
+[32.395s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[32.395s]   warnings.warn(
+[32.400s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[32.401s]   warnings.warn(
+[36.970s] running egg_info
+[36.971s] creating examples_rclpy_executors.egg-info
+[36.972s] writing examples_rclpy_executors.egg-info/PKG-INFO
+[36.973s] writing dependency_links to examples_rclpy_executors.egg-info/dependency_links.txt
+[36.974s] writing entry points to examples_rclpy_executors.egg-info/entry_points.txt
+[36.975s] writing requirements to examples_rclpy_executors.egg-info/requires.txt
+[36.976s] writing top-level names to examples_rclpy_executors.egg-info/top_level.txt
+[37.017s] writing manifest file 'examples_rclpy_executors.egg-info/SOURCES.txt'
+[37.068s] reading manifest file 'examples_rclpy_executors.egg-info/SOURCES.txt'
+[37.072s] writing manifest file 'examples_rclpy_executors.egg-info/SOURCES.txt'
+[37.157s] running build_ext
+[37.158s] Creating /home/muhuaguan/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples-rclpy-executors.egg-link (link to .)
+[37.164s] Installing callback_group script to /home/muhuaguan/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[37.206s] Installing composed script to /home/muhuaguan/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[37.206s] Installing custom_callback_group script to /home/muhuaguan/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[37.210s] Installing custom_executor script to /home/muhuaguan/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[37.210s] Installing listener script to /home/muhuaguan/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[37.211s] Installing talker script to /home/muhuaguan/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[37.235s] 
+[37.235s] Installed /home/muhuaguan/ros2_ws/build/examples_rclpy_executors
+[37.236s] running install_data
+[37.257s] creating /home/muhuaguan/ros2_ws/install/examples_rclpy_executors/share/ament_index
+[37.257s] creating /home/muhuaguan/ros2_ws/install/examples_rclpy_executors/share/ament_index/resource_index
+[37.258s] creating /home/muhuaguan/ros2_ws/install/examples_rclpy_executors/share/ament_index/resource_index/packages
+[37.259s] copying resource/examples_rclpy_executors -> /home/muhuaguan/ros2_ws/install/examples_rclpy_executors/share/ament_index/resource_index/packages
+[37.259s] copying package.xml -> /home/muhuaguan/ros2_ws/install/examples_rclpy_executors/share/examples_rclpy_executors
+[43.033s] Invoked command in '/home/muhuaguan/ros2_ws/build/examples_rclpy_executors' returned '0': PYTHONPATH=/home/muhuaguan/ros2_ws/build/examples_rclpy_executors/prefix_override:/home/muhuaguan/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/muhuaguan/ros2_ws/build/examples_rclpy_executors/build --no-deps install_data
